@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-
-    <color name="anaRenk">#2C3254</color>
-    <color name="yaziRengi1">#F5FFFF</color>
-    <color name="butonRengi">#1873CC</color>
-</resources>
